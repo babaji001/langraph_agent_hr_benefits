@@ -1,0 +1,6 @@
+employee_id,employee_name,department,designation,location,annual_leave,sick_leave,fmla_eligible,salary,bonus,last_payment
+1001,John Smith,IT,Principal Architect,Virginia,18,8,Yes,180000,12000,2026-07-15
+1002,Mary Johnson,HR,HR Manager,Texas,12,10,Yes,140000,9000,2026-07-15
+1003,David Brown,Finance,Financial Analyst,California,8,5,No,110000,6000,2026-07-15
+1004,Sarah Wilson,Sales,Sales Director,Florida,20,7,Yes,165000,18000,2026-07-15
+1005,James Miller,Operations,Operations Engineer,Ohio,15,6,Yes,130000,7000,2026-07-15
